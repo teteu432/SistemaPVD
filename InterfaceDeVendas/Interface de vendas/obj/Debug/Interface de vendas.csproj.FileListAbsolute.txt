@@ -1,0 +1,7 @@
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface de vendas.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface_de_vendas.Interface.casdastreSe.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface_de_vendas.Login.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface_de_vendas.Interface.Login.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface_de_vendas.Properties.Resources.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface de vendas.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\SistemaDeVendas\InterfaceDeVendas\Interface de vendas\obj\Debug\Interface de vendas.csproj.CoreCompileInputs.cache

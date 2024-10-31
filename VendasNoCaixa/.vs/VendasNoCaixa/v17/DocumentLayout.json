@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|c:\\users\\mateu\\source\\repos\\sistemadevendas\\vendasnocaixa\\vendas no caixa\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\dal\\logindaocomandos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\vendas no caixa\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8A7B3C-02CF-4DC9-A90D-1AF6CC2F29D7}|Vendas no Caixa\\Vendas no Caixa.csproj|solutionrelative:vendas no caixa\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Form1.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\Form1.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Form1.cs [Design]",
+              "RelativeToolTip": "Vendas no Caixa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:38:15.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\cadastro.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\cadastro.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\cadastro.cs [Design]",
+              "RelativeToolTip": "Vendas no Caixa\\cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:00:51.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Form1.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\Form1.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Form1.cs",
+              "RelativeToolTip": "Vendas no Caixa\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:03:47.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\Modelo\\Controle.cs",
+              "RelativeToolTip": "Vendas no Caixa\\Modelo\\Controle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:08:46.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\DAL\\Conexao.cs",
+              "RelativeToolTip": "Vendas no Caixa\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:08:35.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDaoComandos.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\DAL\\LoginDaoComandos.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\DAL\\LoginDaoComandos.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\DAL\\LoginDaoComandos.cs",
+              "RelativeToolTip": "Vendas no Caixa\\DAL\\LoginDaoComandos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:09:00.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\cadastro.cs",
+              "RelativeDocumentMoniker": "Vendas no Caixa\\cadastro.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\VendasNoCaixa\\Vendas no Caixa\\cadastro.cs",
+              "RelativeToolTip": "Vendas no Caixa\\cadastro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:02:57.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

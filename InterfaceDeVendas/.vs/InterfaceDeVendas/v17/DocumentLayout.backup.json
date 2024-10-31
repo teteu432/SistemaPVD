@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\interface de vendas\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\interface de vendas\\interface\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\interface\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|c:\\users\\mateu\\source\\repos\\sistemadevendas\\interfacedevendas\\interface de vendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\interface de vendas\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\interface\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\interface de vendas\\interface\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\interface\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\interface de vendas\\interface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0DAE4E9-64F7-4C36-A6E2-BD5EA3F9B63C}|Interface de vendas\\Interface de vendas.csproj|solutionrelative:interface de vendas\\interface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Program.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Program.cs",
+              "RelativeToolTip": "Interface de vendas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:28:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Interface\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Cadastro.cs",
+              "RelativeToolTip": "Interface de vendas\\Interface\\Cadastro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:25:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Login.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Interface\\Login.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Login.cs",
+              "RelativeToolTip": "Interface de vendas\\Interface\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:22:21.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Login.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Interface\\Login.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Login.cs [Design]",
+              "RelativeToolTip": "Interface de vendas\\Interface\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:19:32.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Home.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Interface\\Home.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Home.cs [Design]",
+              "RelativeToolTip": "Interface de vendas\\Interface\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:54:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Interface de vendas\\Interface\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\SistemaDeVendas\\InterfaceDeVendas\\Interface de vendas\\Interface\\Cadastro.cs [Design]",
+              "RelativeToolTip": "Interface de vendas\\Interface\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:48:23.99Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

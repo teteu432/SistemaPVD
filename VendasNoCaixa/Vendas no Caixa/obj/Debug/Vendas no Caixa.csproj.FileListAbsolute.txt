@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\bin\Debug\Vendas no Caixa.exe.config
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\bin\Debug\Vendas no Caixa.exe
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\bin\Debug\Vendas no Caixa.pdb
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas no Caixa.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas_no_Caixa.cadastro.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas_no_Caixa.Form1.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas_no_Caixa.Properties.Resources.resources
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas no Caixa.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas no Caixa.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas no Caixa.exe
+C:\Users\mateu\source\repos\SistemaDeVendas\VendasNoCaixa\Vendas no Caixa\obj\Debug\Vendas no Caixa.pdb
